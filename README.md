@@ -16,6 +16,6 @@ your_gmail_password
 
 ### Video
 
-Or you can see short video demonstrating how it works:
+It's a short video demonstrating how it works:
 
 https://vimeo.com/444011954
